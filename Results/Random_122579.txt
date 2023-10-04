@@ -1,0 +1,700 @@
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 20, 42, 33), 7, (46.9895828, 6.9292641), [3053.56, 2685.31, 3822.2, 3742.47, 2860.79, 1821.27, 4475.79, 3211.87, 2879.79, 3741.73, 2658.15, 3511.85, 2596.29, 6165.15, 192.88, 1419.97, 649.91, 1957.33])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[]
+----------------------------------------
+Action: 7	Reward: -0.9996	Accumulated reward: -0.9996
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 20, 56, 36), 2, (46.5633119, 6.630097184531793), [769.94, 881.66, 2080.54, 1513.58, 1119.13, 1709.61, 2246.89, 1470.21, 2738.64, 1277.49, 1608.17, 2780.89, 2808.61, 4503.96, 3116.3, 4108.05, 3337.99, 3937.92])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(7, datetime.datetime(2018, 7, 4, 22, 19, 2, 70149))]
+----------------------------------------
+Action: 9	Reward: -0.5621	Accumulated reward: -1.5617
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 21, 2, 25), 1, (46.520422249999996, 6.6250226947435955), [241.76, 795.57, 1790.55, 1666.13, 829.14, 1644.78, 2399.44, 1180.22, 2673.8, 1623.05, 1543.33, 2716.06, 2743.78, 4656.51, 3051.46, 4043.22, 3273.16, 3873.09])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(7, datetime.datetime(2018, 7, 4, 22, 19, 2, 70149)), (9, datetime.datetime(2018, 7, 4, 22, 42, 38, 133224))]
+----------------------------------------
+Action: 11	Reward: -9.9859	Accumulated reward: -11.5476
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 21, 28, 1), 9, (46.3617765, 6.9301789), [1818.4, 2075.57, 3182.15, 1095.19, 2220.74, 2811.22, 615.11, 2571.82, 3479.04, 2000.62, 2709.77, 3882.5, 3910.22, 2856.16, 4217.9, 5209.66, 4439.6, 5039.53])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(7, datetime.datetime(2018, 7, 4, 22, 19, 2, 70149)), (9, datetime.datetime(2018, 7, 4, 22, 42, 38, 133224)), (11, datetime.datetime(2018, 7, 4, 22, 29, 58, 718541))]
+----------------------------------------
+Action: 1	Reward: -0.9479	Accumulated reward: -12.4956
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 21, 30, 47), 1, (46.7800287, 6.6425939), [1905.61, 1537.36, 2674.25, 2594.52, 1712.84, 190.14, 3327.83, 2063.92, 1625.06, 2415.76, 1510.2, 2363.9, 1489.59, 5584.9, 1862.08, 2853.83, 2083.77, 2683.7])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(7, datetime.datetime(2018, 7, 4, 22, 19, 2, 70149)), (9, datetime.datetime(2018, 7, 4, 22, 42, 38, 133224)), (11, datetime.datetime(2018, 7, 4, 22, 29, 58, 718541)), (1, datetime.datetime(2018, 7, 4, 23, 10, 32, 794686))]
+----------------------------------------
+Action: 9	Reward: -9.9902	Accumulated reward: -22.4858
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 21, 31, 18), 10, (46.461025199999995, 6.853960172407513), [1452.01, 1709.17, 2815.75, 147.95, 1854.34, 2444.82, 1369.37, 2205.43, 3027.3, 1634.22, 2343.38, 3516.1, 3543.82, 3613.94, 3851.51, 4843.26, 4073.2, 4673.13])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:1', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(7, datetime.datetime(2018, 7, 4, 22, 19, 2, 70149)), (9, datetime.datetime(2018, 7, 4, 22, 42, 38, 133224)), (11, datetime.datetime(2018, 7, 4, 22, 29, 58, 718541)), (1, datetime.datetime(2018, 7, 4, 23, 10, 32, 794686)), (9, datetime.datetime(2018, 7, 4, 22, 16, 57, 908382))]
+----------------------------------------
+Action: 8	Reward: -0.9998	Accumulated reward: -23.4856
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 21, 34, 16), 9, (46.4582246, 6.8492876), [1513.67, 1770.83, 2877.41, 45.43, 1916.0, 2506.48, 1431.03, 2267.08, 3088.96, 1679.71, 2405.03, 3577.76, 3605.48, 3675.59, 3913.17, 4904.92, 4134.86, 4734.79])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:1', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(7, datetime.datetime(2018, 7, 4, 22, 19, 2, 70149)), (9, datetime.datetime(2018, 7, 4, 22, 42, 38, 133224)), (11, datetime.datetime(2018, 7, 4, 22, 29, 58, 718541)), (1, datetime.datetime(2018, 7, 4, 23, 10, 32, 794686)), (9, datetime.datetime(2018, 7, 4, 22, 16, 57, 908382)), (8, datetime.datetime(2018, 7, 4, 22, 30, 22, 965405))]
+----------------------------------------
+Action: 9	Reward: -1.0	Accumulated reward: -24.4855
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 21, 45, 54), 2, (46.45427025, 6.867284428182151), [1524.54, 1781.7, 2888.29, 177.84, 1926.88, 2517.35, 1293.35, 2277.96, 3099.84, 1706.76, 2415.91, 3588.64, 3616.36, 3509.72, 3924.04, 4915.8, 4145.73, 4745.67])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(7, datetime.datetime(2018, 7, 4, 22, 19, 2, 70149)), (9, datetime.datetime(2018, 7, 4, 22, 42, 38, 133224)), (11, datetime.datetime(2018, 7, 4, 22, 29, 58, 718541)), (1, datetime.datetime(2018, 7, 4, 23, 10, 32, 794686)), (9, datetime.datetime(2018, 7, 4, 22, 16, 57, 908382)), (8, datetime.datetime(2018, 7, 4, 22, 30, 22, 965405)), (9, datetime.datetime(2018, 7, 4, 22, 31, 51, 744977))]
+----------------------------------------
+Action: 0	Reward: -0.9968	Accumulated reward: -25.4824
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 21, 48, 4), 0, (46.54032495, 6.6222675), [404.49, 844.52, 1951.1, 1302.94, 989.69, 1580.17, 2036.26, 1340.77, 2609.2, 1319.37, 1478.72, 2651.45, 2679.17, 4293.33, 2986.86, 3978.61, 3208.55, 3808.48])
+Station status:
+['stn:0, num:31', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(7, datetime.datetime(2018, 7, 4, 22, 19, 2, 70149)), (9, datetime.datetime(2018, 7, 4, 22, 42, 38, 133224)), (11, datetime.datetime(2018, 7, 4, 22, 29, 58, 718541)), (1, datetime.datetime(2018, 7, 4, 23, 10, 32, 794686)), (9, datetime.datetime(2018, 7, 4, 22, 16, 57, 908382)), (8, datetime.datetime(2018, 7, 4, 22, 30, 22, 965405)), (9, datetime.datetime(2018, 7, 4, 22, 31, 51, 744977)), (0, datetime.datetime(2018, 7, 4, 23, 12, 54, 260645))]
+----------------------------------------
+Action: 3	Reward: -94.0162	Accumulated reward: -119.4985
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 22, 4, 40), 1, (46.9815926, 6.8759047), [3152.38, 2784.13, 3921.02, 3841.29, 2959.61, 1920.08, 4574.6, 3310.69, 3002.5, 3840.55, 2756.97, 3610.67, 2695.1, 6481.26, 788.09, 1547.47, 777.41, 1609.64])
+Station status:
+['stn:0, num:31', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(7, datetime.datetime(2018, 7, 4, 22, 19, 2, 70149)), (9, datetime.datetime(2018, 7, 4, 22, 42, 38, 133224)), (11, datetime.datetime(2018, 7, 4, 22, 29, 58, 718541)), (1, datetime.datetime(2018, 7, 4, 23, 10, 32, 794686)), (9, datetime.datetime(2018, 7, 4, 22, 16, 57, 908382)), (8, datetime.datetime(2018, 7, 4, 22, 30, 22, 965405)), (9, datetime.datetime(2018, 7, 4, 22, 31, 51, 744977)), (0, datetime.datetime(2018, 7, 4, 23, 12, 54, 260645)), (3, datetime.datetime(2018, 7, 4, 22, 32, 32, 551590))]
+----------------------------------------
+Action: 6	Reward: -9.9018	Accumulated reward: -129.4004
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 22, 7, 41), 0, (46.5320079, 6.5810564), [697.04, 577.21, 1724.99, 1781.93, 763.57, 1559.03, 2515.24, 1114.66, 2588.05, 1798.35, 1457.58, 2630.07, 2658.03, 4772.31, 2965.72, 3957.47, 3187.41, 3787.34])
+Station status:
+['stn:0, num:31', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(7, datetime.datetime(2018, 7, 4, 22, 19, 2, 70149)), (9, datetime.datetime(2018, 7, 4, 22, 42, 38, 133224)), (11, datetime.datetime(2018, 7, 4, 22, 29, 58, 718541)), (1, datetime.datetime(2018, 7, 4, 23, 10, 32, 794686)), (9, datetime.datetime(2018, 7, 4, 22, 16, 57, 908382)), (8, datetime.datetime(2018, 7, 4, 22, 30, 22, 965405)), (9, datetime.datetime(2018, 7, 4, 22, 31, 51, 744977)), (0, datetime.datetime(2018, 7, 4, 23, 12, 54, 260645)), (3, datetime.datetime(2018, 7, 4, 22, 32, 32, 551590)), (6, datetime.datetime(2018, 7, 4, 22, 48, 22, 330869))]
+----------------------------------------
+Action: 11	Reward: -97.8859	Accumulated reward: -227.2862
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 22, 14, 42), 1, (47.0052563, 6.9623243), [3087.81, 2719.56, 3856.45, 3776.72, 2895.04, 1855.51, 4510.04, 3246.12, 2723.38, 3775.98, 2692.4, 3546.1, 2630.53, 6008.74, 191.18, 1471.22, 701.16, 2024.36])
+Station status:
+['stn:0, num:31', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:0', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(7, datetime.datetime(2018, 7, 4, 22, 19, 2, 70149)), (9, datetime.datetime(2018, 7, 4, 22, 42, 38, 133224)), (11, datetime.datetime(2018, 7, 4, 22, 29, 58, 718541)), (1, datetime.datetime(2018, 7, 4, 23, 10, 32, 794686)), (9, datetime.datetime(2018, 7, 4, 22, 16, 57, 908382)), (8, datetime.datetime(2018, 7, 4, 22, 30, 22, 965405)), (9, datetime.datetime(2018, 7, 4, 22, 31, 51, 744977)), (0, datetime.datetime(2018, 7, 4, 23, 12, 54, 260645)), (3, datetime.datetime(2018, 7, 4, 22, 32, 32, 551590)), (6, datetime.datetime(2018, 7, 4, 22, 48, 22, 330869)), (11, datetime.datetime(2018, 7, 4, 22, 35, 42, 866874))]
+----------------------------------------
+Action: 14	Reward: 10.0	Accumulated reward: -217.2862
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 22, 16, 48), 1, (46.9887008, 6.9081937), [2996.86, 2628.61, 3765.5, 3685.77, 2804.08, 1764.56, 4419.08, 3155.17, 2800.25, 3685.02, 2601.44, 3455.15, 2539.58, 6085.6, 398.73, 1263.4, 493.34, 1760.08])
+Station status:
+['stn:0, num:31', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:0', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(7, datetime.datetime(2018, 7, 4, 22, 19, 2, 70149)), (9, datetime.datetime(2018, 7, 4, 22, 42, 38, 133224)), (11, datetime.datetime(2018, 7, 4, 22, 29, 58, 718541)), (1, datetime.datetime(2018, 7, 4, 23, 10, 32, 794686)), (9, datetime.datetime(2018, 7, 4, 22, 16, 57, 908382)), (8, datetime.datetime(2018, 7, 4, 22, 30, 22, 965405)), (9, datetime.datetime(2018, 7, 4, 22, 31, 51, 744977)), (0, datetime.datetime(2018, 7, 4, 23, 12, 54, 260645)), (3, datetime.datetime(2018, 7, 4, 22, 32, 32, 551590)), (6, datetime.datetime(2018, 7, 4, 22, 48, 22, 330869)), (11, datetime.datetime(2018, 7, 4, 22, 35, 42, 866874)), (14, datetime.datetime(2018, 7, 4, 23, 21, 24, 831559))]
+----------------------------------------
+Action: 3	Reward: -9.9747	Accumulated reward: -227.2609
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 22, 19, 39), 0, (46.4582246, 6.8492876), [1513.67, 1770.83, 2877.41, 45.43, 1916.0, 2506.48, 1431.03, 2267.08, 3088.96, 1679.71, 2405.03, 3577.76, 3605.48, 3675.59, 3913.17, 4904.92, 4134.86, 4734.79])
+Station status:
+['stn:0, num:31', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:0', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:2', 'stn:7, num:1', 'stn:8, num:0', 'stn:9, num:1', 'stn:10, num:3', 'stn:11, num:0', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(9, datetime.datetime(2018, 7, 4, 22, 42, 38, 133224)), (11, datetime.datetime(2018, 7, 4, 22, 29, 58, 718541)), (1, datetime.datetime(2018, 7, 4, 23, 10, 32, 794686)), (8, datetime.datetime(2018, 7, 4, 22, 30, 22, 965405)), (9, datetime.datetime(2018, 7, 4, 22, 31, 51, 744977)), (0, datetime.datetime(2018, 7, 4, 23, 12, 54, 260645)), (3, datetime.datetime(2018, 7, 4, 22, 32, 32, 551590)), (6, datetime.datetime(2018, 7, 4, 22, 48, 22, 330869)), (11, datetime.datetime(2018, 7, 4, 22, 35, 42, 866874)), (14, datetime.datetime(2018, 7, 4, 23, 21, 24, 831559)), (3, datetime.datetime(2018, 7, 5, 1, 6, 39, 19424))]
+----------------------------------------
+Action: 2	Reward: -99.9992	Accumulated reward: -327.2601
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 22, 42, 30), 1, (46.5415716, 6.62387325), [465.96, 888.86, 1995.45, 1347.29, 1034.04, 1624.51, 2080.6, 1385.12, 2653.54, 1363.71, 1523.07, 2695.8, 2723.51, 4337.67, 3031.2, 4022.96, 3252.89, 3852.83])
+Station status:
+['stn:0, num:31', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:2', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(9, datetime.datetime(2018, 7, 4, 22, 42, 38, 133224)), (1, datetime.datetime(2018, 7, 4, 23, 10, 32, 794686)), (0, datetime.datetime(2018, 7, 4, 23, 12, 54, 260645)), (6, datetime.datetime(2018, 7, 4, 22, 48, 22, 330869)), (14, datetime.datetime(2018, 7, 4, 23, 21, 24, 831559)), (3, datetime.datetime(2018, 7, 5, 1, 6, 39, 19424)), (2, datetime.datetime(2018, 7, 4, 23, 13, 20, 250976))]
+----------------------------------------
+Action: 4	Reward: -8.1699	Accumulated reward: -335.4301
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 22, 51, 30), 0, (46.71110375, 6.367480704568578), [2781.61, 2413.36, 3550.25, 3470.52, 2588.84, 1960.73, 4203.84, 2742.86, 2989.75, 3469.78, 1355.28, 701.52, 2456.92, 6460.9, 3367.42, 4359.17, 3589.11, 3692.16])
+Station status:
+['stn:0, num:31', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(1, datetime.datetime(2018, 7, 4, 23, 10, 32, 794686)), (0, datetime.datetime(2018, 7, 4, 23, 12, 54, 260645)), (14, datetime.datetime(2018, 7, 4, 23, 21, 24, 831559)), (3, datetime.datetime(2018, 7, 5, 1, 6, 39, 19424)), (2, datetime.datetime(2018, 7, 4, 23, 13, 20, 250976)), (4, datetime.datetime(2018, 7, 5, 0, 45, 32, 16282))]
+----------------------------------------
+Action: 10	Reward: -72.2628	Accumulated reward: -407.6928
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 22, 56, 37), 9, (46.646169, 6.7786265), [1682.2, 2001.31, 3107.9, 2214.51, 2146.48, 2093.22, 2947.82, 2497.57, 1686.64, 524.4, 2541.22, 3685.82, 3525.99, 4384.9, 3833.68, 4825.43, 4055.37, 4655.31])
+Station status:
+['stn:0, num:31', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(1, datetime.datetime(2018, 7, 4, 23, 10, 32, 794686)), (0, datetime.datetime(2018, 7, 4, 23, 12, 54, 260645)), (14, datetime.datetime(2018, 7, 4, 23, 21, 24, 831559)), (3, datetime.datetime(2018, 7, 5, 1, 6, 39, 19424)), (2, datetime.datetime(2018, 7, 4, 23, 13, 20, 250976)), (4, datetime.datetime(2018, 7, 5, 0, 45, 32, 16282)), (10, datetime.datetime(2018, 7, 4, 23, 37, 59, 193474))]
+----------------------------------------
+Action: 11	Reward: -0.9942	Accumulated reward: -408.6871
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 23, 10, 6), 1, (46.6719777, 6.8037057), [1985.1, 2175.63, 3410.8, 2492.29, 2449.39, 1789.77, 3225.6, 2800.47, 1379.26, 802.18, 2467.68, 3510.15, 3222.54, 4310.41, 3530.23, 4521.98, 3751.92, 4351.85])
+Station status:
+['stn:0, num:31', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(1, datetime.datetime(2018, 7, 4, 23, 10, 32, 794686)), (0, datetime.datetime(2018, 7, 4, 23, 12, 54, 260645)), (14, datetime.datetime(2018, 7, 4, 23, 21, 24, 831559)), (3, datetime.datetime(2018, 7, 5, 1, 6, 39, 19424)), (2, datetime.datetime(2018, 7, 4, 23, 13, 20, 250976)), (4, datetime.datetime(2018, 7, 5, 0, 45, 32, 16282)), (10, datetime.datetime(2018, 7, 4, 23, 37, 59, 193474)), (11, datetime.datetime(2018, 7, 5, 1, 20, 0, 197138))]
+----------------------------------------
+Action: 7	Reward: -9.5299	Accumulated reward: -418.217
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 23, 24, 46), 9, (46.7113939, 6.3798804), [2527.6, 2159.34, 3296.24, 3216.5, 2334.82, 1706.71, 3949.82, 2685.91, 2735.74, 3215.76, 1101.26, 898.9, 2202.91, 6206.89, 3113.4, 4105.15, 3335.09, 3438.14])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 1, 6, 39, 19424)), (4, datetime.datetime(2018, 7, 5, 0, 45, 32, 16282)), (10, datetime.datetime(2018, 7, 4, 23, 37, 59, 193474)), (11, datetime.datetime(2018, 7, 5, 1, 20, 0, 197138)), (7, datetime.datetime(2018, 7, 5, 0, 27, 23, 76665))]
+----------------------------------------
+Action: 13	Reward: -0.9939	Accumulated reward: -419.2109
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 23, 30, 57), 2, (46.22113175, 7.011947036937948), [2458.67, 2715.83, 3822.42, 1735.45, 2861.0, 3451.48, 982.73, 3212.09, 4119.31, 2640.89, 3350.04, 4522.76, 4550.48, 3357.82, 4858.17, 5849.92, 5079.86, 5679.79])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 1, 6, 39, 19424)), (4, datetime.datetime(2018, 7, 5, 0, 45, 32, 16282)), (10, datetime.datetime(2018, 7, 4, 23, 37, 59, 193474)), (11, datetime.datetime(2018, 7, 5, 1, 20, 0, 197138)), (7, datetime.datetime(2018, 7, 5, 0, 27, 23, 76665)), (13, datetime.datetime(2018, 7, 5, 0, 22, 20, 836066))]
+----------------------------------------
+Action: 5	Reward: -0.9538	Accumulated reward: -420.1648
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 23, 34, 59), 9, (47.0871309, 6.842431152796221), [4050.13, 3681.88, 4818.77, 4739.04, 3857.36, 2817.83, 5472.36, 4208.44, 3814.36, 4738.3, 3654.72, 4508.42, 3127.24, 7099.71, 1415.13, 326.79, 619.43, 1896.0])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 1, 6, 39, 19424)), (4, datetime.datetime(2018, 7, 5, 0, 45, 32, 16282)), (10, datetime.datetime(2018, 7, 4, 23, 37, 59, 193474)), (11, datetime.datetime(2018, 7, 5, 1, 20, 0, 197138)), (7, datetime.datetime(2018, 7, 5, 0, 27, 23, 76665)), (13, datetime.datetime(2018, 7, 5, 0, 22, 20, 836066)), (5, datetime.datetime(2018, 7, 5, 0, 42, 46, 777755))]
+----------------------------------------
+Action: 2	Reward: -0.9994	Accumulated reward: -421.1642
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 4, 23, 35, 16), 0, (46.5110886, 6.4838697), [1167.67, 839.32, 1223.87, 1943.27, 504.27, 1688.52, 2676.58, 613.54, 2717.54, 1959.69, 1587.07, 2219.57, 2787.52, 4933.65, 3095.21, 4086.96, 3316.9, 3916.83])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 1, 6, 39, 19424)), (4, datetime.datetime(2018, 7, 5, 0, 45, 32, 16282)), (10, datetime.datetime(2018, 7, 4, 23, 37, 59, 193474)), (11, datetime.datetime(2018, 7, 5, 1, 20, 0, 197138)), (7, datetime.datetime(2018, 7, 5, 0, 27, 23, 76665)), (13, datetime.datetime(2018, 7, 5, 0, 22, 20, 836066)), (5, datetime.datetime(2018, 7, 5, 0, 42, 46, 777755)), (2, datetime.datetime(2018, 7, 5, 0, 38, 23, 572500))]
+----------------------------------------
+Action: 1	Reward: -56.6253	Accumulated reward: -477.7894
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 0, 4, 25), 1, (47.0134231, 6.9916166), [3358.95, 2990.7, 4127.59, 4047.86, 3166.18, 2126.65, 4781.17, 3517.26, 2596.95, 4047.11, 2963.53, 3817.24, 2901.67, 5882.31, 462.31, 1742.36, 972.3, 2295.5])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 1, 6, 39, 19424)), (4, datetime.datetime(2018, 7, 5, 0, 45, 32, 16282)), (11, datetime.datetime(2018, 7, 5, 1, 20, 0, 197138)), (7, datetime.datetime(2018, 7, 5, 0, 27, 23, 76665)), (13, datetime.datetime(2018, 7, 5, 0, 22, 20, 836066)), (5, datetime.datetime(2018, 7, 5, 0, 42, 46, 777755)), (2, datetime.datetime(2018, 7, 5, 0, 38, 23, 572500)), (1, datetime.datetime(2018, 7, 5, 0, 24, 43, 226140))]
+----------------------------------------
+Action: 4	Reward: -9.9377	Accumulated reward: -487.7272
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 0, 14, 30), 9, (47.09664195, 6.813316557419635), [4264.08, 3895.83, 5032.72, 4952.99, 4071.31, 3031.78, 5686.31, 4422.39, 4028.31, 4952.25, 3868.67, 4722.37, 3273.25, 7313.66, 1629.08, 176.18, 833.38, 2199.82])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:1', 'stn:4, num:4', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 1, 6, 39, 19424)), (4, datetime.datetime(2018, 7, 5, 0, 45, 32, 16282)), (11, datetime.datetime(2018, 7, 5, 1, 20, 0, 197138)), (7, datetime.datetime(2018, 7, 5, 0, 27, 23, 76665)), (13, datetime.datetime(2018, 7, 5, 0, 22, 20, 836066)), (5, datetime.datetime(2018, 7, 5, 0, 42, 46, 777755)), (2, datetime.datetime(2018, 7, 5, 0, 38, 23, 572500)), (1, datetime.datetime(2018, 7, 5, 0, 24, 43, 226140)), (4, datetime.datetime(2018, 7, 5, 1, 25, 17, 446469))]
+----------------------------------------
+Action: 10	Reward: -0.9998	Accumulated reward: -488.727
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 0, 42, 22), 1, (46.513108900000006, 6.634877725855416), [312.51, 886.53, 1881.51, 1571.7, 920.09, 1735.73, 2305.01, 1271.18, 2764.76, 1620.79, 1634.29, 2807.02, 2834.74, 4562.08, 3142.42, 4134.17, 3364.11, 3964.05])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:4', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 1, 6, 39, 19424)), (4, datetime.datetime(2018, 7, 5, 0, 45, 32, 16282)), (11, datetime.datetime(2018, 7, 5, 1, 20, 0, 197138)), (5, datetime.datetime(2018, 7, 5, 0, 42, 46, 777755)), (4, datetime.datetime(2018, 7, 5, 1, 25, 17, 446469)), (10, datetime.datetime(2018, 7, 5, 2, 49, 25, 169139))]
+----------------------------------------
+Action: 3	Reward: -9.8428	Accumulated reward: -498.5698
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 0, 44, 11), 1, (46.4210125, 6.2671545), [1802.4, 1474.05, 630.64, 2578.0, 1383.7, 2323.25, 3311.31, 842.25, 3352.28, 2594.42, 2221.81, 2960.43, 3422.25, 5568.38, 3729.94, 4721.69, 3951.63, 4551.56])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:0', 'stn:4, num:4', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 1, 6, 39, 19424)), (4, datetime.datetime(2018, 7, 5, 0, 45, 32, 16282)), (11, datetime.datetime(2018, 7, 5, 1, 20, 0, 197138)), (4, datetime.datetime(2018, 7, 5, 1, 25, 17, 446469)), (10, datetime.datetime(2018, 7, 5, 2, 49, 25, 169139)), (3, datetime.datetime(2018, 7, 5, 2, 53, 51, 705006))]
+----------------------------------------
+Action: 0	Reward: -9.1433	Accumulated reward: -507.7131
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 0, 45, 57), 0, (46.53158465, 6.650709007510651), [279.33, 1001.27, 2107.86, 1340.27, 1146.44, 1736.92, 2073.59, 1497.53, 2765.95, 1294.97, 1635.48, 2808.21, 2835.92, 4330.65, 3143.61, 4135.36, 3365.3, 3965.24])
+Station status:
+['stn:0, num:31', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:0', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 1, 6, 39, 19424)), (11, datetime.datetime(2018, 7, 5, 1, 20, 0, 197138)), (4, datetime.datetime(2018, 7, 5, 1, 25, 17, 446469)), (10, datetime.datetime(2018, 7, 5, 2, 49, 25, 169139)), (3, datetime.datetime(2018, 7, 5, 2, 53, 51, 705006)), (0, datetime.datetime(2018, 7, 5, 2, 57, 29, 583142))]
+----------------------------------------
+Action: 5	Reward: -99.1682	Accumulated reward: -606.8812
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 0, 53, 3), 1, (46.4788351, 6.3554866), [1656.96, 1328.61, 920.11, 2432.56, 1238.27, 2177.81, 3165.88, 270.62, 3206.84, 2448.98, 2076.37, 2451.14, 3276.81, 5422.95, 3584.5, 4576.25, 3806.19, 4406.13])
+Station status:
+['stn:0, num:31', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:0', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 1, 6, 39, 19424)), (11, datetime.datetime(2018, 7, 5, 1, 20, 0, 197138)), (4, datetime.datetime(2018, 7, 5, 1, 25, 17, 446469)), (10, datetime.datetime(2018, 7, 5, 2, 49, 25, 169139)), (3, datetime.datetime(2018, 7, 5, 2, 53, 51, 705006)), (0, datetime.datetime(2018, 7, 5, 2, 57, 29, 583142)), (5, datetime.datetime(2018, 7, 5, 1, 49, 58, 128720))]
+----------------------------------------
+Action: 2	Reward: -9.4911	Accumulated reward: -616.3724
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 1, 6, 55), 7, (47.1031321, 6.8325778), [4172.67, 3804.42, 4941.31, 4861.58, 3979.9, 2940.38, 5594.9, 4330.98, 3936.9, 4860.84, 3777.26, 4630.96, 3339.65, 7222.25, 1537.67, 293.39, 741.97, 2108.41])
+Station status:
+['stn:0, num:31', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(11, datetime.datetime(2018, 7, 5, 1, 20, 0, 197138)), (4, datetime.datetime(2018, 7, 5, 1, 25, 17, 446469)), (10, datetime.datetime(2018, 7, 5, 2, 49, 25, 169139)), (3, datetime.datetime(2018, 7, 5, 2, 53, 51, 705006)), (0, datetime.datetime(2018, 7, 5, 2, 57, 29, 583142)), (5, datetime.datetime(2018, 7, 5, 1, 49, 58, 128720)), (2, datetime.datetime(2018, 7, 5, 1, 20, 40, 849221))]
+----------------------------------------
+Action: 17	Reward: -0.9946	Accumulated reward: -617.367
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 1, 24, 49), 12, (46.461025199999995, 6.853960172407513), [1452.01, 1709.17, 2815.75, 147.95, 1854.34, 2444.82, 1369.37, 2205.43, 3027.3, 1634.22, 2343.38, 3516.1, 3543.82, 3613.94, 3851.51, 4843.26, 4073.2, 4673.13])
+Station status:
+['stn:0, num:31', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:4']
+Busy ambulances:[(4, datetime.datetime(2018, 7, 5, 1, 25, 17, 446469)), (10, datetime.datetime(2018, 7, 5, 2, 49, 25, 169139)), (3, datetime.datetime(2018, 7, 5, 2, 53, 51, 705006)), (0, datetime.datetime(2018, 7, 5, 2, 57, 29, 583142)), (5, datetime.datetime(2018, 7, 5, 1, 49, 58, 128720)), (17, datetime.datetime(2018, 7, 5, 1, 35, 1, 29871))]
+----------------------------------------
+Action: 2	Reward: -0.9997	Accumulated reward: -618.3667
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 1, 28, 7), 0, (46.8496406, 6.8477378), [2531.72, 2163.46, 3300.36, 3220.63, 2338.94, 1239.5, 3953.94, 2690.03, 840.42, 2577.06, 2136.3, 2990.0, 2372.97, 4855.15, 2680.66, 3672.41, 2902.35, 3502.28])
+Station status:
+['stn:0, num:31', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:4']
+Busy ambulances:[(10, datetime.datetime(2018, 7, 5, 2, 49, 25, 169139)), (3, datetime.datetime(2018, 7, 5, 2, 53, 51, 705006)), (0, datetime.datetime(2018, 7, 5, 2, 57, 29, 583142)), (5, datetime.datetime(2018, 7, 5, 1, 49, 58, 128720)), (17, datetime.datetime(2018, 7, 5, 1, 35, 1, 29871)), (2, datetime.datetime(2018, 7, 5, 2, 37, 15, 980194))]
+----------------------------------------
+Action: 12	Reward: -91.1153	Accumulated reward: -709.482
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 1, 29, 29), 1, (46.5212191, 6.5860549), [633.5, 551.6, 1546.57, 1655.55, 585.16, 1400.8, 2388.86, 936.24, 2429.82, 1671.97, 1299.35, 2472.08, 2499.8, 4645.93, 2807.49, 3799.24, 3029.18, 3629.11])
+Station status:
+['stn:0, num:31', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:2', 'stn:12, num:1', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:4']
+Busy ambulances:[(10, datetime.datetime(2018, 7, 5, 2, 49, 25, 169139)), (3, datetime.datetime(2018, 7, 5, 2, 53, 51, 705006)), (0, datetime.datetime(2018, 7, 5, 2, 57, 29, 583142)), (5, datetime.datetime(2018, 7, 5, 1, 49, 58, 128720)), (17, datetime.datetime(2018, 7, 5, 1, 35, 1, 29871)), (2, datetime.datetime(2018, 7, 5, 2, 37, 15, 980194)), (12, datetime.datetime(2018, 7, 5, 2, 37, 9, 697285))]
+----------------------------------------
+Action: 2	Reward: -9.0926	Accumulated reward: -718.5746
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 2, 0, 42), 1, (46.5209777, 6.621232320416952), [248.46, 738.95, 1733.92, 1645.21, 772.51, 1588.15, 2378.53, 1123.59, 2617.18, 1629.74, 1486.71, 2659.43, 2687.15, 4635.6, 2994.84, 3986.59, 3216.53, 3816.46])
+Station status:
+['stn:0, num:31', 'stn:1, num:1', 'stn:2, num:6', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:2', 'stn:12, num:1', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(10, datetime.datetime(2018, 7, 5, 2, 49, 25, 169139)), (3, datetime.datetime(2018, 7, 5, 2, 53, 51, 705006)), (0, datetime.datetime(2018, 7, 5, 2, 57, 29, 583142)), (2, datetime.datetime(2018, 7, 5, 2, 37, 15, 980194)), (12, datetime.datetime(2018, 7, 5, 2, 37, 9, 697285)), (2, datetime.datetime(2018, 7, 5, 2, 22, 34, 257588))]
+----------------------------------------
+Action: 6	Reward: -9.9772	Accumulated reward: -728.5518
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 2, 28, 46), 2, (46.77543885, 6.638683041734486), [1805.18, 1436.92, 2573.82, 2494.09, 1612.4, 98.49, 3227.4, 1963.49, 1533.4, 2370.34, 1409.76, 2263.47, 1502.94, 5484.47, 1839.87, 2831.63, 2061.56, 2661.5])
+Station status:
+['stn:0, num:31', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:2', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:2', 'stn:12, num:1', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(10, datetime.datetime(2018, 7, 5, 2, 49, 25, 169139)), (3, datetime.datetime(2018, 7, 5, 2, 53, 51, 705006)), (0, datetime.datetime(2018, 7, 5, 2, 57, 29, 583142)), (2, datetime.datetime(2018, 7, 5, 2, 37, 15, 980194)), (12, datetime.datetime(2018, 7, 5, 2, 37, 9, 697285)), (6, datetime.datetime(2018, 7, 5, 2, 42, 37, 786403))]
+----------------------------------------
+Action: 15	Reward: -0.9999	Accumulated reward: -729.5517
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 2, 45, 18), 9, (46.82476815, 6.499929449502337), [2962.08, 2593.83, 3730.72, 3650.99, 2769.31, 1669.61, 4384.3, 3120.39, 2812.2, 3650.24, 2351.64, 2813.46, 83.61, 6641.37, 2819.32, 3095.57, 3041.01, 1275.11])
+Station status:
+['stn:0, num:31', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(10, datetime.datetime(2018, 7, 5, 2, 49, 25, 169139)), (3, datetime.datetime(2018, 7, 5, 2, 53, 51, 705006)), (0, datetime.datetime(2018, 7, 5, 2, 57, 29, 583142)), (15, datetime.datetime(2018, 7, 5, 3, 35, 6, 649197))]
+----------------------------------------
+Action: 13	Reward: -1.0	Accumulated reward: -730.5517
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 3, 19, 44), 1, (47.09664195, 6.813316557419635), [4264.08, 3895.83, 5032.72, 4952.99, 4071.31, 3031.78, 5686.31, 4422.39, 4028.31, 4952.25, 3868.67, 4722.37, 3273.25, 7313.66, 1629.08, 176.18, 833.38, 2199.82])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(15, datetime.datetime(2018, 7, 5, 3, 35, 6, 649197)), (13, datetime.datetime(2018, 7, 5, 3, 54, 19, 71300))]
+----------------------------------------
+Action: 2	Reward: -9.9991	Accumulated reward: -740.5509
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 3, 27, 34), 1, (46.521631549999995, 6.639178427934719), [36.54, 983.01, 1977.98, 1430.99, 1016.57, 1827.64, 2164.3, 1367.65, 2856.67, 1385.69, 1726.2, 2898.92, 2926.64, 4421.37, 3234.33, 4226.08, 3456.02, 4055.95])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(15, datetime.datetime(2018, 7, 5, 3, 35, 6, 649197)), (13, datetime.datetime(2018, 7, 5, 3, 54, 19, 71300)), (2, datetime.datetime(2018, 7, 5, 4, 42, 53, 118675))]
+----------------------------------------
+Action: 15	Reward: -10.0	Accumulated reward: -750.5509
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 3, 38, 31), 1, (46.656195, 6.5103982), [1519.09, 1122.54, 2287.73, 2208.0, 1194.24, 1321.95, 2941.31, 1677.4, 2350.97, 2224.42, 193.3, 1323.99, 2246.37, 5198.38, 2728.63, 3720.39, 2950.33, 3494.5])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(13, datetime.datetime(2018, 7, 5, 3, 54, 19, 71300)), (2, datetime.datetime(2018, 7, 5, 4, 42, 53, 118675)), (15, datetime.datetime(2018, 7, 5, 4, 39, 25, 619853))]
+----------------------------------------
+Action: 17	Reward: -9.9966	Accumulated reward: -760.5475
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 3, 43, 58), 0, (47.05714915, 6.75933949739294), [4735.26, 4367.01, 5503.9, 5424.17, 4542.49, 3502.96, 6157.48, 4893.57, 4585.38, 5423.43, 4339.85, 5193.55, 2893.9, 7897.34, 2212.75, 656.87, 1417.05, 1946.75])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:4']
+Busy ambulances:[(13, datetime.datetime(2018, 7, 5, 3, 54, 19, 71300)), (2, datetime.datetime(2018, 7, 5, 4, 42, 53, 118675)), (15, datetime.datetime(2018, 7, 5, 4, 39, 25, 619853)), (17, datetime.datetime(2018, 7, 5, 4, 19, 48, 201247))]
+----------------------------------------
+Action: 8	Reward: -99.412	Accumulated reward: -859.9595
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 3, 56, 24), 1, (46.53349285, 6.613624922062267), [413.27, 819.29, 1939.97, 1502.63, 978.56, 1745.02, 2235.94, 1329.65, 2774.05, 1519.05, 1643.58, 2816.3, 2844.02, 4493.01, 3151.71, 4143.46, 3373.4, 3973.33])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:0', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:4']
+Busy ambulances:[(2, datetime.datetime(2018, 7, 5, 4, 42, 53, 118675)), (15, datetime.datetime(2018, 7, 5, 4, 39, 25, 619853)), (17, datetime.datetime(2018, 7, 5, 4, 19, 48, 201247)), (8, datetime.datetime(2018, 7, 5, 4, 23, 45, 762202))]
+----------------------------------------
+Action: 2	Reward: -9.8066	Accumulated reward: -869.7662
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 4, 18, 36), 8, (46.4328997, 6.914808683036622), [1626.39, 1883.55, 2990.14, 640.16, 2028.72, 2619.2, 1329.93, 2379.8, 3287.02, 1808.6, 2517.76, 3690.48, 3718.2, 3459.51, 4025.89, 5017.64, 4247.58, 4847.51])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:6', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:0', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:4']
+Busy ambulances:[(2, datetime.datetime(2018, 7, 5, 4, 42, 53, 118675)), (15, datetime.datetime(2018, 7, 5, 4, 39, 25, 619853)), (17, datetime.datetime(2018, 7, 5, 4, 19, 48, 201247)), (8, datetime.datetime(2018, 7, 5, 4, 23, 45, 762202)), (2, datetime.datetime(2018, 7, 5, 4, 32, 16, 135449))]
+----------------------------------------
+Action: 17	Reward: -0.9954	Accumulated reward: -870.7616
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 4, 36, 6), 0, (47.0547873, 7.0634857), [3508.97, 3140.72, 4277.61, 4197.88, 3316.19, 2276.67, 4931.19, 3667.28, 2600.79, 4197.13, 3113.55, 3967.26, 3051.69, 5886.15, 612.33, 1892.38, 1122.31, 2445.52])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:4']
+Busy ambulances:[(2, datetime.datetime(2018, 7, 5, 4, 42, 53, 118675)), (15, datetime.datetime(2018, 7, 5, 4, 39, 25, 619853)), (17, datetime.datetime(2018, 7, 5, 6, 6, 0, 773924))]
+----------------------------------------
+Action: 17	Reward: -96.8604	Accumulated reward: -967.622
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 4, 38, 44), 1, (46.5209214, 6.6312537), [152.72, 895.34, 1890.32, 1597.9, 928.9, 1744.54, 2331.22, 1279.99, 2773.57, 1552.6, 1643.1, 2815.83, 2843.54, 4588.29, 3151.23, 4142.98, 3372.92, 3972.86])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:3']
+Busy ambulances:[(2, datetime.datetime(2018, 7, 5, 4, 42, 53, 118675)), (15, datetime.datetime(2018, 7, 5, 4, 39, 25, 619853)), (17, datetime.datetime(2018, 7, 5, 6, 6, 0, 773924)), (17, datetime.datetime(2018, 7, 5, 6, 1, 53, 444498))]
+----------------------------------------
+Action: 15	Reward: -9.999	Accumulated reward: -977.621
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 4, 54, 17), 1, (46.5354703, 6.6091141), [475.73, 720.13, 1930.11, 1469.94, 968.7, 1665.97, 2203.25, 1319.79, 2695.0, 1486.36, 1564.53, 2737.25, 2764.97, 4460.32, 3072.66, 4064.41, 3294.35, 3894.28])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:3']
+Busy ambulances:[(17, datetime.datetime(2018, 7, 5, 6, 6, 0, 773924)), (17, datetime.datetime(2018, 7, 5, 6, 1, 53, 444498)), (15, datetime.datetime(2018, 7, 5, 6, 1, 48, 417391))]
+----------------------------------------
+Action: 4	Reward: -7.6311	Accumulated reward: -985.2521
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 5, 9, 59), 1, (46.5181164, 6.6497587), [215.32, 1140.01, 2134.99, 1551.81, 1173.57, 1948.46, 2285.12, 1524.66, 2977.48, 1506.5, 1847.01, 3019.74, 3047.46, 4542.19, 3355.14, 4346.9, 3576.84, 4176.77])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:3']
+Busy ambulances:[(17, datetime.datetime(2018, 7, 5, 6, 6, 0, 773924)), (17, datetime.datetime(2018, 7, 5, 6, 1, 53, 444498)), (15, datetime.datetime(2018, 7, 5, 6, 1, 48, 417391)), (4, datetime.datetime(2018, 7, 5, 6, 23, 15, 179810))]
+----------------------------------------
+Action: 3	Reward: -9.9466	Accumulated reward: -995.1987
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 6, 15, 48), 1, (46.308476, 6.1718062), [2395.78, 2067.44, 873.03, 3171.39, 1977.09, 2916.64, 3904.7, 1435.64, 3945.66, 3187.81, 2815.19, 3584.21, 4015.64, 6161.77, 4323.32, 5315.08, 4545.02, 5144.95])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(4, datetime.datetime(2018, 7, 5, 6, 23, 15, 179810)), (3, datetime.datetime(2018, 7, 5, 8, 19, 24, 455625))]
+----------------------------------------
+Action: 15	Reward: -9.9114	Accumulated reward: -1005.11
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 6, 27, 1), 1, (46.3871146, 6.2306207), [1989.68, 1661.33, 129.35, 2765.28, 1570.98, 2510.53, 3498.59, 1029.53, 3539.56, 2781.7, 2409.09, 3178.11, 3609.53, 5755.66, 3917.22, 4908.97, 4138.91, 4738.84])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 8, 19, 24, 455625)), (15, datetime.datetime(2018, 7, 5, 7, 29, 4, 636510))]
+----------------------------------------
+Action: 0	Reward: -9.9945	Accumulated reward: -1015.1045
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 6, 28, 10), 0, (46.45923235, 6.33965511884905), [1524.3, 1195.95, 827.14, 2299.9, 1105.61, 2045.15, 3033.22, 478.15, 3074.18, 2316.32, 1943.71, 2719.58, 3144.16, 5290.29, 3451.84, 4443.6, 3673.53, 4273.47])
+Station status:
+['stn:0, num:31', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 8, 19, 24, 455625)), (15, datetime.datetime(2018, 7, 5, 7, 29, 4, 636510)), (0, datetime.datetime(2018, 7, 5, 7, 42, 56, 11371))]
+----------------------------------------
+Action: 13	Reward: -99.8523	Accumulated reward: -1114.9569
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 6, 42, 56), 0, (47.0985513, 6.8280629), [4172.54, 3804.29, 4941.18, 4861.45, 3979.77, 2940.25, 5594.77, 4330.85, 3936.77, 4860.71, 3777.13, 4630.83, 3237.35, 7222.12, 1537.54, 168.07, 741.84, 2108.28])
+Station status:
+['stn:0, num:31', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 8, 19, 24, 455625)), (15, datetime.datetime(2018, 7, 5, 7, 29, 4, 636510)), (0, datetime.datetime(2018, 7, 5, 7, 42, 56, 11371)), (13, datetime.datetime(2018, 7, 5, 7, 9, 55, 762771))]
+----------------------------------------
+Action: 14	Reward: -99.7388	Accumulated reward: -1214.6956
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 6, 43, 16), 1, (46.52778415, 6.6275379499999945), [271.74, 926.53, 1938.26, 1522.29, 976.84, 1792.48, 2255.6, 1327.93, 2821.51, 1538.71, 1691.04, 2863.76, 2891.48, 4512.67, 3199.17, 4190.92, 3420.86, 4020.79])
+Station status:
+['stn:0, num:31', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:9', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 8, 19, 24, 455625)), (15, datetime.datetime(2018, 7, 5, 7, 29, 4, 636510)), (0, datetime.datetime(2018, 7, 5, 7, 42, 56, 11371)), (13, datetime.datetime(2018, 7, 5, 7, 9, 55, 762771)), (14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249))]
+----------------------------------------
+Action: 10	Reward: -9.917	Accumulated reward: -1224.6127
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 6, 51, 22), 2, (46.8451454, 6.8571155), [2480.92, 2112.67, 3249.56, 3169.83, 2288.15, 1188.71, 3903.14, 2639.23, 789.62, 2526.26, 2085.51, 2939.21, 2322.18, 4804.35, 2629.86, 3621.62, 2851.56, 3451.49])
+Station status:
+['stn:0, num:31', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:9', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 8, 19, 24, 455625)), (15, datetime.datetime(2018, 7, 5, 7, 29, 4, 636510)), (0, datetime.datetime(2018, 7, 5, 7, 42, 56, 11371)), (13, datetime.datetime(2018, 7, 5, 7, 9, 55, 762771)), (14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249)), (10, datetime.datetime(2018, 7, 5, 7, 16, 53, 290613))]
+----------------------------------------
+Action: 11	Reward: -0.9612	Accumulated reward: -1225.5739
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 7, 3), 0, (47.1050901, 6.830879065396132), [4228.81, 3860.55, 4997.44, 4917.71, 4036.03, 2996.51, 5651.03, 4387.11, 3993.03, 4916.97, 3833.39, 4687.09, 3362.35, 7278.38, 1593.8, 293.07, 798.1, 2164.54])
+Station status:
+['stn:0, num:31', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:9', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 8, 19, 24, 455625)), (15, datetime.datetime(2018, 7, 5, 7, 29, 4, 636510)), (0, datetime.datetime(2018, 7, 5, 7, 42, 56, 11371)), (13, datetime.datetime(2018, 7, 5, 7, 9, 55, 762771)), (14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249)), (10, datetime.datetime(2018, 7, 5, 7, 16, 53, 290613)), (11, datetime.datetime(2018, 7, 5, 7, 59, 10, 652148))]
+----------------------------------------
+Action: 4	Reward: -99.9234	Accumulated reward: -1325.4973
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 7, 27, 29), 7, (46.996919199999994, 6.942923586966937), [3172.18, 2803.93, 3940.82, 3861.09, 2979.4, 1939.88, 4594.4, 3330.49, 2718.64, 3860.34, 2776.76, 3630.47, 2714.9, 6004.0, 33.9, 1538.06, 767.99, 2080.88])
+Station status:
+['stn:0, num:31', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 8, 19, 24, 455625)), (15, datetime.datetime(2018, 7, 5, 7, 29, 4, 636510)), (0, datetime.datetime(2018, 7, 5, 7, 42, 56, 11371)), (14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249)), (11, datetime.datetime(2018, 7, 5, 7, 59, 10, 652148)), (4, datetime.datetime(2018, 7, 5, 7, 59, 9, 154184))]
+----------------------------------------
+Action: 15	Reward: -1.0	Accumulated reward: -1326.4973
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 7, 54, 9), 2, (46.5196425, 6.5065004), [1055.93, 727.58, 1539.94, 1831.53, 197.32, 1576.78, 2564.84, 929.61, 2605.8, 1847.95, 1475.33, 2281.81, 2675.78, 4821.91, 2983.47, 3975.22, 3205.16, 3805.09])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 8, 19, 24, 455625)), (14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249)), (11, datetime.datetime(2018, 7, 5, 7, 59, 10, 652148)), (4, datetime.datetime(2018, 7, 5, 7, 59, 9, 154184)), (15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659))]
+----------------------------------------
+Action: 9	Reward: -0.9976	Accumulated reward: -1327.4948
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 8, 6, 37), 2, (47.0871309, 6.842431152796221), [4050.13, 3681.88, 4818.77, 4739.04, 3857.36, 2817.83, 5472.36, 4208.44, 3814.36, 4738.3, 3654.72, 4508.42, 3127.24, 7099.71, 1415.13, 326.79, 619.43, 1896.0])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 8, 19, 24, 455625)), (14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249)), (15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (9, datetime.datetime(2018, 7, 5, 8, 56, 6, 862725))]
+----------------------------------------
+Action: 15	Reward: 1.0	Accumulated reward: -1326.4948
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 8, 11, 11), 1, (46.71799805, 6.532324522295278), [1689.23, 1320.97, 2457.87, 2378.14, 1496.45, 1007.78, 3111.45, 1847.54, 2036.81, 2343.91, 608.13, 1443.55, 1815.05, 5368.52, 2414.47, 3406.22, 2636.16, 3063.18])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:2', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(3, datetime.datetime(2018, 7, 5, 8, 19, 24, 455625)), (14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249)), (15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (9, datetime.datetime(2018, 7, 5, 8, 56, 6, 862725)), (15, datetime.datetime(2018, 7, 5, 9, 20, 24, 622877))]
+----------------------------------------
+Action: 7	Reward: -9.2868	Accumulated reward: -1335.7816
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 8, 27, 7), 1, (46.3942213, 6.9272217), [1993.36, 2250.52, 3357.1, 1204.72, 2395.69, 2986.17, 995.29, 2746.77, 3653.99, 2175.57, 2884.73, 4057.45, 4085.17, 3369.14, 4392.86, 5384.61, 4614.55, 5214.48])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:2', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249)), (15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (9, datetime.datetime(2018, 7, 5, 8, 56, 6, 862725)), (15, datetime.datetime(2018, 7, 5, 9, 20, 24, 622877)), (7, datetime.datetime(2018, 7, 5, 9, 34, 42, 426050))]
+----------------------------------------
+Action: 14	Reward: -9.7674	Accumulated reward: -1345.549
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 8, 40, 8), 1, (46.9276152, 6.6402135), [4060.52, 3692.26, 4829.16, 4749.42, 3867.74, 2828.22, 5482.74, 4218.83, 3910.63, 4748.68, 3629.36, 4090.49, 1405.02, 7739.81, 2106.74, 2103.77, 1853.12, 173.78])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:8', 'stn:15, num:2', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249)), (15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (9, datetime.datetime(2018, 7, 5, 8, 56, 6, 862725)), (15, datetime.datetime(2018, 7, 5, 9, 20, 24, 622877)), (7, datetime.datetime(2018, 7, 5, 9, 34, 42, 426050)), (14, datetime.datetime(2018, 7, 5, 9, 8, 54, 105186))]
+----------------------------------------
+Action: 8	Reward: -9.9982	Accumulated reward: -1355.5472
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 8, 54, 8), 2, (46.32031125, 6.959952049999998), [1996.66, 2253.83, 3360.41, 1273.45, 2399.0, 2989.48, 213.39, 2750.08, 3657.3, 2178.88, 2888.03, 4060.76, 4088.48, 2478.8, 4396.16, 5387.92, 4617.86, 5217.79])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:8', 'stn:15, num:2', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249)), (15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (9, datetime.datetime(2018, 7, 5, 8, 56, 6, 862725)), (15, datetime.datetime(2018, 7, 5, 9, 20, 24, 622877)), (7, datetime.datetime(2018, 7, 5, 9, 34, 42, 426050)), (14, datetime.datetime(2018, 7, 5, 9, 8, 54, 105186)), (8, datetime.datetime(2018, 7, 5, 9, 53, 46, 771875))]
+----------------------------------------
+Action: 2	Reward: -0.9995	Accumulated reward: -1356.5467
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 9, 5, 5), 1, (46.5376798, 6.6662121), [519.43, 1058.42, 2165.0, 1400.96, 1203.59, 1794.07, 2134.27, 1554.67, 2823.09, 1175.47, 1692.62, 2865.35, 2893.07, 4391.34, 3200.75, 4192.51, 3422.45, 4022.38])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:3', 'stn:10, num:3', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:8', 'stn:15, num:2', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249)), (15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (15, datetime.datetime(2018, 7, 5, 9, 20, 24, 622877)), (7, datetime.datetime(2018, 7, 5, 9, 34, 42, 426050)), (14, datetime.datetime(2018, 7, 5, 9, 8, 54, 105186)), (8, datetime.datetime(2018, 7, 5, 9, 53, 46, 771875)), (2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917))]
+----------------------------------------
+Action: 10	Reward: -9.422	Accumulated reward: -1365.9687
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 9, 9, 23), 10, (46.252844, 6.9478263), [2610.46, 2867.62, 3974.2, 1887.24, 3012.79, 3603.27, 1119.71, 3363.87, 4271.09, 2792.67, 3501.82, 4674.55, 4702.27, 3508.56, 5009.96, 6001.71, 5231.65, 5831.58])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:6', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:2', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249)), (15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (15, datetime.datetime(2018, 7, 5, 9, 20, 24, 622877)), (7, datetime.datetime(2018, 7, 5, 9, 34, 42, 426050)), (8, datetime.datetime(2018, 7, 5, 9, 53, 46, 771875)), (2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (10, datetime.datetime(2018, 7, 5, 9, 53, 58, 739600))]
+----------------------------------------
+Action: 5	Reward: -0.94	Accumulated reward: -1366.9087
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 9, 11, 24), 0, (47.000516700000006, 6.955424730728561), [3436.87, 3068.61, 4205.5, 4125.77, 3244.09, 2204.57, 4859.09, 3595.18, 2983.33, 4125.03, 3041.45, 3895.15, 2979.59, 6268.69, 373.43, 1820.27, 1050.21, 2373.41])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:2', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249)), (15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (15, datetime.datetime(2018, 7, 5, 9, 20, 24, 622877)), (7, datetime.datetime(2018, 7, 5, 9, 34, 42, 426050)), (8, datetime.datetime(2018, 7, 5, 9, 53, 46, 771875)), (2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (10, datetime.datetime(2018, 7, 5, 9, 53, 58, 739600)), (5, datetime.datetime(2018, 7, 5, 10, 19, 18, 885230))]
+----------------------------------------
+Action: 14	Reward: 100.0	Accumulated reward: -1266.9087
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 9, 15, 4), 1, (46.5397105, 6.577033199999999), [741.02, 349.78, 1640.18, 1586.35, 678.76, 1331.6, 2319.66, 1029.84, 2360.63, 1602.77, 1230.16, 2402.88, 2430.6, 4576.73, 2738.29, 3730.04, 2959.98, 3559.91])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:8', 'stn:15, num:2', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249)), (15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (15, datetime.datetime(2018, 7, 5, 9, 20, 24, 622877)), (7, datetime.datetime(2018, 7, 5, 9, 34, 42, 426050)), (8, datetime.datetime(2018, 7, 5, 9, 53, 46, 771875)), (2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (10, datetime.datetime(2018, 7, 5, 9, 53, 58, 739600)), (5, datetime.datetime(2018, 7, 5, 10, 19, 18, 885230)), (14, datetime.datetime(2018, 7, 5, 9, 57, 54, 232862))]
+----------------------------------------
+Action: 6	Reward: -9.9314	Accumulated reward: -1276.8401
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 9, 21, 41), 1, (47.09493895, 6.812823027704388), [4245.38, 3877.13, 5014.02, 4934.29, 4052.61, 3013.08, 5667.6, 4403.69, 4009.61, 4933.55, 3849.97, 4703.67, 3222.77, 7294.96, 1610.38, 125.7, 814.67, 2181.12])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:8', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249)), (15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (7, datetime.datetime(2018, 7, 5, 9, 34, 42, 426050)), (8, datetime.datetime(2018, 7, 5, 9, 53, 46, 771875)), (2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (10, datetime.datetime(2018, 7, 5, 9, 53, 58, 739600)), (5, datetime.datetime(2018, 7, 5, 10, 19, 18, 885230)), (14, datetime.datetime(2018, 7, 5, 9, 57, 54, 232862)), (6, datetime.datetime(2018, 7, 5, 9, 54, 33, 974652))]
+----------------------------------------
+Action: 1	Reward: -9.9993	Accumulated reward: -1286.8394
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 9, 24, 46), 0, (46.992082, 6.9178544), [3120.2, 2751.95, 3888.84, 3809.11, 2927.43, 1887.9, 4542.42, 3278.51, 2923.59, 3808.37, 2724.79, 3578.49, 2662.92, 6208.94, 345.36, 1303.29, 533.23, 1813.39])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:8', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(14, datetime.datetime(2018, 7, 5, 9, 27, 37, 116249)), (15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (7, datetime.datetime(2018, 7, 5, 9, 34, 42, 426050)), (8, datetime.datetime(2018, 7, 5, 9, 53, 46, 771875)), (2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (10, datetime.datetime(2018, 7, 5, 9, 53, 58, 739600)), (5, datetime.datetime(2018, 7, 5, 10, 19, 18, 885230)), (14, datetime.datetime(2018, 7, 5, 9, 57, 54, 232862)), (6, datetime.datetime(2018, 7, 5, 9, 54, 33, 974652)), (1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428))]
+----------------------------------------
+Action: 4	Reward: -99.6716	Accumulated reward: -1386.5111
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 9, 27, 41), 1, (46.5505553, 6.5730552), [815.13, 267.48, 1557.87, 1504.04, 596.45, 1249.29, 2237.35, 947.54, 2278.32, 1520.46, 1147.85, 2320.57, 2348.29, 4494.42, 2655.98, 3647.73, 2877.67, 3477.6])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (7, datetime.datetime(2018, 7, 5, 9, 34, 42, 426050)), (8, datetime.datetime(2018, 7, 5, 9, 53, 46, 771875)), (2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (10, datetime.datetime(2018, 7, 5, 9, 53, 58, 739600)), (5, datetime.datetime(2018, 7, 5, 10, 19, 18, 885230)), (14, datetime.datetime(2018, 7, 5, 9, 57, 54, 232862)), (6, datetime.datetime(2018, 7, 5, 9, 54, 33, 974652)), (1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (4, datetime.datetime(2018, 7, 5, 11, 0, 58, 541681))]
+----------------------------------------
+Action: 5	Reward: -9.8037	Accumulated reward: -1396.3148
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 9, 35, 4), 1, (46.6157517, 6.748392352031534), [1376.95, 1696.07, 2802.65, 2050.77, 1841.24, 2088.15, 2784.09, 2192.32, 2121.4, 360.66, 2233.47, 3407.38, 3311.68, 4479.26, 3619.37, 4611.12, 3841.06, 4440.99])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:4', 'stn:6, num:2', 'stn:7, num:1', 'stn:8, num:0', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:2', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (8, datetime.datetime(2018, 7, 5, 9, 53, 46, 771875)), (2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (10, datetime.datetime(2018, 7, 5, 9, 53, 58, 739600)), (5, datetime.datetime(2018, 7, 5, 10, 19, 18, 885230)), (14, datetime.datetime(2018, 7, 5, 9, 57, 54, 232862)), (6, datetime.datetime(2018, 7, 5, 9, 54, 33, 974652)), (1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (4, datetime.datetime(2018, 7, 5, 11, 0, 58, 541681)), (5, datetime.datetime(2018, 7, 5, 9, 45, 24, 577834))]
+----------------------------------------
+Action: 11	Reward: -9.9763	Accumulated reward: -1406.291
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 9, 37, 6), 2, (46.6675349, 6.8002542), [1925.23, 2206.43, 3350.93, 2421.67, 2389.52, 1858.77, 3154.99, 2740.6, 1448.25, 731.56, 2498.49, 3540.96, 3291.53, 4239.8, 3599.22, 4590.98, 3820.91, 4420.85])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:4', 'stn:6, num:2', 'stn:7, num:1', 'stn:8, num:0', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:9', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (8, datetime.datetime(2018, 7, 5, 9, 53, 46, 771875)), (2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (10, datetime.datetime(2018, 7, 5, 9, 53, 58, 739600)), (5, datetime.datetime(2018, 7, 5, 10, 19, 18, 885230)), (14, datetime.datetime(2018, 7, 5, 9, 57, 54, 232862)), (6, datetime.datetime(2018, 7, 5, 9, 54, 33, 974652)), (1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (4, datetime.datetime(2018, 7, 5, 11, 0, 58, 541681)), (5, datetime.datetime(2018, 7, 5, 9, 45, 24, 577834)), (11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073))]
+----------------------------------------
+Action: 13	Reward: -0.9897	Accumulated reward: -1407.2808
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 9, 49, 6), 1, (46.5203526, 6.6318827), [132.29, 879.35, 1874.33, 1577.47, 912.92, 1728.56, 2310.79, 1264.0, 2757.58, 1532.17, 1627.11, 2799.84, 2827.56, 4567.86, 3135.24, 4127.0, 3356.94, 3956.87])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:1', 'stn:8, num:0', 'stn:9, num:3', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:9', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (8, datetime.datetime(2018, 7, 5, 9, 53, 46, 771875)), (2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (10, datetime.datetime(2018, 7, 5, 9, 53, 58, 739600)), (5, datetime.datetime(2018, 7, 5, 10, 19, 18, 885230)), (14, datetime.datetime(2018, 7, 5, 9, 57, 54, 232862)), (6, datetime.datetime(2018, 7, 5, 9, 54, 33, 974652)), (1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (4, datetime.datetime(2018, 7, 5, 11, 0, 58, 541681)), (11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797))]
+----------------------------------------
+Action: 9	Reward: -9.9871	Accumulated reward: -1417.2679
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 9, 51, 34), 1, (47.10527505, 6.828883850000006), [4251.44, 3883.19, 5020.08, 4940.35, 4058.67, 3019.14, 5673.66, 4409.75, 4015.66, 4939.6, 3856.02, 4709.73, 3339.72, 7301.02, 1616.44, 270.43, 820.73, 2187.18])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:1', 'stn:8, num:0', 'stn:9, num:2', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:9', 'stn:15, num:3', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(15, datetime.datetime(2018, 7, 5, 9, 57, 29, 655659)), (8, datetime.datetime(2018, 7, 5, 9, 53, 46, 771875)), (2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (10, datetime.datetime(2018, 7, 5, 9, 53, 58, 739600)), (5, datetime.datetime(2018, 7, 5, 10, 19, 18, 885230)), (14, datetime.datetime(2018, 7, 5, 9, 57, 54, 232862)), (6, datetime.datetime(2018, 7, 5, 9, 54, 33, 974652)), (1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (4, datetime.datetime(2018, 7, 5, 11, 0, 58, 541681)), (11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (9, datetime.datetime(2018, 7, 5, 10, 52, 38, 432505))]
+----------------------------------------
+Action: 16	Reward: -9.2845	Accumulated reward: -1426.5524
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 9, 57, 38), 1, (47.0844949, 6.8426901), [4052.48, 3684.23, 4821.12, 4741.39, 3859.71, 2820.19, 5474.71, 4210.79, 3816.71, 4740.65, 3657.07, 4510.77, 3086.59, 7102.06, 1417.48, 329.14, 621.78, 1855.35])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:1', 'stn:8, num:1', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:9', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:5']
+Busy ambulances:[(2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (5, datetime.datetime(2018, 7, 5, 10, 19, 18, 885230)), (14, datetime.datetime(2018, 7, 5, 9, 57, 54, 232862)), (1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (4, datetime.datetime(2018, 7, 5, 11, 0, 58, 541681)), (11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (9, datetime.datetime(2018, 7, 5, 10, 52, 38, 432505)), (16, datetime.datetime(2018, 7, 5, 10, 57, 8, 907138))]
+----------------------------------------
+Action: 7	Reward: -9.9904	Accumulated reward: -1436.5429
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 10, 10, 1), 1, (46.4885862, 6.7257701), [1116.69, 1491.79, 2598.38, 991.54, 1636.96, 2227.44, 1865.24, 1988.05, 3256.47, 1230.33, 2126.0, 3298.72, 3326.44, 4122.31, 3634.13, 4625.88, 3855.82, 4455.75])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:5']
+Busy ambulances:[(2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (5, datetime.datetime(2018, 7, 5, 10, 19, 18, 885230)), (1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (4, datetime.datetime(2018, 7, 5, 11, 0, 58, 541681)), (11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (9, datetime.datetime(2018, 7, 5, 10, 52, 38, 432505)), (16, datetime.datetime(2018, 7, 5, 10, 57, 8, 907138)), (7, datetime.datetime(2018, 7, 5, 10, 16, 0, 352306))]
+----------------------------------------
+Action: 4	Reward: -5.5553	Accumulated reward: -1442.0981
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 10, 10, 33), 12, (46.8180767, 6.9466507), [2816.76, 2448.51, 3585.4, 3067.66, 2623.99, 1524.54, 3861.59, 2975.07, 15.26, 2053.92, 2421.34, 3275.05, 2658.02, 4236.25, 2697.56, 3957.46, 3187.4, 3787.33])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:4', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:5']
+Busy ambulances:[(2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (5, datetime.datetime(2018, 7, 5, 10, 19, 18, 885230)), (1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (4, datetime.datetime(2018, 7, 5, 11, 0, 58, 541681)), (11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (9, datetime.datetime(2018, 7, 5, 10, 52, 38, 432505)), (16, datetime.datetime(2018, 7, 5, 10, 57, 8, 907138)), (7, datetime.datetime(2018, 7, 5, 10, 16, 0, 352306)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301))]
+----------------------------------------
+Action: 8	Reward: 1.0	Accumulated reward: -1441.0981
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 10, 11, 31), 2, (46.524829100000005, 6.64677375323644), [182.76, 1055.04, 2142.26, 1394.03, 1180.84, 1790.69, 2127.35, 1531.93, 2819.71, 1348.73, 1689.24, 2861.97, 2889.69, 4384.42, 3197.37, 4189.13, 3419.06, 4019.0])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:4', 'stn:5, num:5', 'stn:6, num:3', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:5']
+Busy ambulances:[(2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (5, datetime.datetime(2018, 7, 5, 10, 19, 18, 885230)), (1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (4, datetime.datetime(2018, 7, 5, 11, 0, 58, 541681)), (11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (9, datetime.datetime(2018, 7, 5, 10, 52, 38, 432505)), (16, datetime.datetime(2018, 7, 5, 10, 57, 8, 907138)), (7, datetime.datetime(2018, 7, 5, 10, 16, 0, 352306)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (8, datetime.datetime(2018, 7, 5, 11, 3, 4, 328418))]
+----------------------------------------
+Action: 6	Reward: -0.9987	Accumulated reward: -1442.0969
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 10, 11, 43), 1, (47.1017792, 6.8314657), [4147.18, 3778.92, 4915.81, 4836.08, 3954.4, 2914.88, 5569.4, 4305.48, 3911.4, 4835.34, 3751.76, 4605.46, 3292.13, 7196.75, 1512.17, 222.84, 716.47, 2082.91])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:4', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:5']
+Busy ambulances:[(2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (5, datetime.datetime(2018, 7, 5, 10, 19, 18, 885230)), (1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (4, datetime.datetime(2018, 7, 5, 11, 0, 58, 541681)), (11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (9, datetime.datetime(2018, 7, 5, 10, 52, 38, 432505)), (16, datetime.datetime(2018, 7, 5, 10, 57, 8, 907138)), (7, datetime.datetime(2018, 7, 5, 10, 16, 0, 352306)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (8, datetime.datetime(2018, 7, 5, 11, 3, 4, 328418)), (6, datetime.datetime(2018, 7, 5, 11, 8, 27, 67216))]
+----------------------------------------
+Action: 9	Reward: -9.998	Accumulated reward: -1452.0949
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 10, 12, 46), 0, (46.48239335, 6.83551626101794), [1647.27, 1904.44, 3011.02, 789.71, 2049.61, 2640.09, 1815.36, 2400.69, 3125.47, 1501.1, 2538.64, 3711.37, 3739.09, 3712.11, 4046.77, 5038.53, 4268.47, 4868.4])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:4', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:1', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:5']
+Busy ambulances:[(2, datetime.datetime(2018, 7, 5, 10, 20, 38, 929917)), (5, datetime.datetime(2018, 7, 5, 10, 19, 18, 885230)), (1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (4, datetime.datetime(2018, 7, 5, 11, 0, 58, 541681)), (11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (9, datetime.datetime(2018, 7, 5, 10, 52, 38, 432505)), (16, datetime.datetime(2018, 7, 5, 10, 57, 8, 907138)), (7, datetime.datetime(2018, 7, 5, 10, 16, 0, 352306)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (8, datetime.datetime(2018, 7, 5, 11, 3, 4, 328418)), (6, datetime.datetime(2018, 7, 5, 11, 8, 27, 67216)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093))]
+----------------------------------------
+Action: 6	Reward: -83.5356	Accumulated reward: -1535.6306
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 10, 29, 32), 1, (46.52266444999999, 6.632078477812264), [139.69, 942.27, 1937.25, 1541.32, 975.83, 1791.47, 2274.64, 1326.92, 2820.5, 1539.57, 1690.03, 2862.76, 2890.47, 4531.71, 3198.16, 4189.91, 3419.85, 4019.79])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:4', 'stn:5, num:6', 'stn:6, num:1', 'stn:7, num:1', 'stn:8, num:0', 'stn:9, num:1', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:5']
+Busy ambulances:[(1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (4, datetime.datetime(2018, 7, 5, 11, 0, 58, 541681)), (11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (9, datetime.datetime(2018, 7, 5, 10, 52, 38, 432505)), (16, datetime.datetime(2018, 7, 5, 10, 57, 8, 907138)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (8, datetime.datetime(2018, 7, 5, 11, 3, 4, 328418)), (6, datetime.datetime(2018, 7, 5, 11, 8, 27, 67216)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884))]
+----------------------------------------
+Action: 9	Reward: -9.9851	Accumulated reward: -1545.6156
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 10, 49, 24), 1, (46.41746595, 6.273703037720042), [1919.62, 1591.28, 747.86, 2695.23, 1500.93, 2440.48, 3428.54, 959.48, 3469.5, 2711.65, 2339.03, 3031.64, 3539.48, 5685.61, 3847.16, 4838.92, 4068.86, 4668.79])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:4', 'stn:5, num:6', 'stn:6, num:1', 'stn:7, num:1', 'stn:8, num:0', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:5']
+Busy ambulances:[(1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (4, datetime.datetime(2018, 7, 5, 11, 0, 58, 541681)), (11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (9, datetime.datetime(2018, 7, 5, 10, 52, 38, 432505)), (16, datetime.datetime(2018, 7, 5, 10, 57, 8, 907138)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (8, datetime.datetime(2018, 7, 5, 11, 3, 4, 328418)), (6, datetime.datetime(2018, 7, 5, 11, 8, 27, 67216)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154))]
+----------------------------------------
+Action: 16	Reward: -9.8758	Accumulated reward: -1555.4914
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 10, 49, 28), 2, (46.5100702, 6.647381851054567), [391.04, 1020.04, 2015.02, 1470.02, 1053.6, 1869.24, 2203.33, 1404.69, 2898.27, 1519.11, 1767.8, 2940.52, 2968.24, 4460.4, 3275.93, 4267.68, 3497.62, 4097.56])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:4', 'stn:5, num:6', 'stn:6, num:1', 'stn:7, num:1', 'stn:8, num:0', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:6', 'stn:17, num:5']
+Busy ambulances:[(1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (4, datetime.datetime(2018, 7, 5, 11, 0, 58, 541681)), (11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (9, datetime.datetime(2018, 7, 5, 10, 52, 38, 432505)), (16, datetime.datetime(2018, 7, 5, 10, 57, 8, 907138)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (8, datetime.datetime(2018, 7, 5, 11, 3, 4, 328418)), (6, datetime.datetime(2018, 7, 5, 11, 8, 27, 67216)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (16, datetime.datetime(2018, 7, 5, 11, 28, 53, 624421))]
+----------------------------------------
+Action: 17	Reward: -0.9983	Accumulated reward: -1556.4897
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 11, 0, 30), 0, (46.5162865, 6.6265932), [359.76, 758.55, 1753.53, 1690.84, 792.11, 1607.75, 2424.15, 1143.19, 2636.78, 1708.91, 1506.31, 2679.03, 2706.75, 4681.22, 3014.44, 4006.19, 3236.13, 3836.06])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:4', 'stn:5, num:6', 'stn:6, num:1', 'stn:7, num:1', 'stn:8, num:0', 'stn:9, num:1', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:4']
+Busy ambulances:[(1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (4, datetime.datetime(2018, 7, 5, 11, 0, 58, 541681)), (11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (8, datetime.datetime(2018, 7, 5, 11, 3, 4, 328418)), (6, datetime.datetime(2018, 7, 5, 11, 8, 27, 67216)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (16, datetime.datetime(2018, 7, 5, 11, 28, 53, 624421)), (17, datetime.datetime(2018, 7, 5, 11, 7, 58, 829982))]
+----------------------------------------
+Action: 7	Reward: -93.7668	Accumulated reward: -1650.2565
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 11, 4, 37), 1, (46.9963903, 6.9356253), [3169.16, 2800.9, 3937.79, 3858.06, 2976.38, 1936.86, 4591.38, 3327.47, 2882.0, 3857.32, 2773.74, 3627.44, 2711.88, 6167.35, 213.87, 1447.26, 677.2, 1978.42])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:1', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:1', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:4']
+Busy ambulances:[(1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (6, datetime.datetime(2018, 7, 5, 11, 8, 27, 67216)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (16, datetime.datetime(2018, 7, 5, 11, 28, 53, 624421)), (17, datetime.datetime(2018, 7, 5, 11, 7, 58, 829982)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281))]
+----------------------------------------
+Action: 3	Reward: -9.9966	Accumulated reward: -1660.2531
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 11, 6, 25), 2, (46.6679903, 6.7960399), [1943.38, 2196.31, 3369.08, 2439.82, 2407.66, 1873.77, 3173.13, 2758.75, 1500.54, 749.71, 2488.36, 3530.84, 3306.54, 4257.94, 3614.23, 4605.98, 3835.92, 4435.86])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:1', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:1', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:4']
+Busy ambulances:[(1, datetime.datetime(2018, 7, 5, 11, 6, 51, 469428)), (11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (6, datetime.datetime(2018, 7, 5, 11, 8, 27, 67216)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (16, datetime.datetime(2018, 7, 5, 11, 28, 53, 624421)), (17, datetime.datetime(2018, 7, 5, 11, 7, 58, 829982)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (3, datetime.datetime(2018, 7, 5, 11, 44, 34, 104075))]
+----------------------------------------
+Action: 11	Reward: -0.9809	Accumulated reward: -1661.2339
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 11, 13, 3), 1, (46.6659258, 6.7948535), [1980.66, 2256.22, 3406.36, 2477.1, 2444.95, 1933.68, 3210.42, 2796.03, 1556.08, 786.99, 2548.27, 3590.75, 3366.45, 4295.23, 3674.14, 4665.89, 3895.83, 4495.76])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:8', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:1', 'stn:10, num:3', 'stn:11, num:0', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:5']
+Busy ambulances:[(11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (16, datetime.datetime(2018, 7, 5, 11, 28, 53, 624421)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (3, datetime.datetime(2018, 7, 5, 11, 44, 34, 104075)), (11, datetime.datetime(2018, 7, 5, 12, 29, 14, 532776))]
+----------------------------------------
+Action: 2	Reward: -9.7534	Accumulated reward: -1670.9873
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 11, 20, 11), 1, (46.52388485, 6.6148070486754635), [351.22, 756.54, 1751.52, 1645.97, 790.1, 1605.74, 2379.28, 1141.19, 2634.77, 1662.39, 1504.3, 2677.03, 2704.75, 4636.35, 3012.43, 4004.19, 3234.13, 3834.06])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:1', 'stn:10, num:3', 'stn:11, num:0', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:5']
+Busy ambulances:[(11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (16, datetime.datetime(2018, 7, 5, 11, 28, 53, 624421)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (3, datetime.datetime(2018, 7, 5, 11, 44, 34, 104075)), (11, datetime.datetime(2018, 7, 5, 12, 29, 14, 532776)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049))]
+----------------------------------------
+Action: 9	Reward: -9.8114	Accumulated reward: -1680.7987
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 11, 22, 6), 1, (46.41713205, 6.274231419019484), [1927.37, 1599.02, 755.61, 2702.97, 1508.68, 2448.22, 3436.29, 967.23, 3477.25, 2719.39, 2346.78, 3039.39, 3547.23, 5693.36, 3854.91, 4846.67, 4076.6, 4676.54])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:0', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:5']
+Busy ambulances:[(11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (16, datetime.datetime(2018, 7, 5, 11, 28, 53, 624421)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (3, datetime.datetime(2018, 7, 5, 11, 44, 34, 104075)), (11, datetime.datetime(2018, 7, 5, 12, 29, 14, 532776)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247))]
+----------------------------------------
+Action: 5	Reward: -9.412	Accumulated reward: -1690.2107
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 11, 34, 47), 0, (46.9879219, 6.9032975), [3073.56, 2705.31, 3842.2, 3762.47, 2880.79, 1841.26, 4495.78, 3231.87, 2876.95, 3761.72, 2678.15, 3531.85, 2616.28, 6162.3, 475.43, 1284.44, 514.38, 1735.24])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:0', 'stn:12, num:2', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (3, datetime.datetime(2018, 7, 5, 11, 44, 34, 104075)), (11, datetime.datetime(2018, 7, 5, 12, 29, 14, 532776)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247)), (5, datetime.datetime(2018, 7, 5, 11, 47, 11, 19166))]
+----------------------------------------
+Action: 12	Reward: -98.7998	Accumulated reward: -1789.0105
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 11, 37, 59), 0, (46.51628045, 6.652306725378022), [348.61, 1164.81, 2159.78, 1503.33, 1198.37, 2014.01, 2236.65, 1549.45, 3043.03, 1467.37, 1912.56, 3085.29, 3113.01, 4493.71, 3420.7, 4412.45, 3642.39, 4242.32])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:1', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:0', 'stn:12, num:1', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (3, datetime.datetime(2018, 7, 5, 11, 44, 34, 104075)), (11, datetime.datetime(2018, 7, 5, 12, 29, 14, 532776)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247)), (5, datetime.datetime(2018, 7, 5, 11, 47, 11, 19166)), (12, datetime.datetime(2018, 7, 5, 12, 9, 27, 730463))]
+----------------------------------------
+Action: 4	Reward: -95.0765	Accumulated reward: -1884.087
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 11, 44, 48), 7, (46.996919199999994, 6.942923586966937), [3172.18, 2803.93, 3940.82, 3861.09, 2979.4, 1939.88, 4594.4, 3330.49, 2718.64, 3860.34, 2776.76, 3630.47, 2714.9, 6004.0, 33.9, 1538.06, 767.99, 2080.88])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:4', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:0', 'stn:12, num:1', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:5']
+Busy ambulances:[(11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (11, datetime.datetime(2018, 7, 5, 12, 29, 14, 532776)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247)), (5, datetime.datetime(2018, 7, 5, 11, 47, 11, 19166)), (12, datetime.datetime(2018, 7, 5, 12, 9, 27, 730463)), (4, datetime.datetime(2018, 7, 5, 12, 28, 46, 283968))]
+----------------------------------------
+Action: 17	Reward: -1.0	Accumulated reward: -1885.087
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 11, 45, 51), 1, (46.5198883, 6.613580618219265), [402.8, 826.04, 1821.02, 1783.49, 859.6, 1675.24, 2516.81, 1210.69, 2704.27, 1784.09, 1573.8, 2746.53, 2774.24, 4773.88, 3081.93, 4073.68, 3303.62, 3903.56])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:4', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:0', 'stn:12, num:1', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:4']
+Busy ambulances:[(11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (11, datetime.datetime(2018, 7, 5, 12, 29, 14, 532776)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247)), (5, datetime.datetime(2018, 7, 5, 11, 47, 11, 19166)), (12, datetime.datetime(2018, 7, 5, 12, 9, 27, 730463)), (4, datetime.datetime(2018, 7, 5, 12, 28, 46, 283968)), (17, datetime.datetime(2018, 7, 5, 13, 1, 51, 304082))]
+----------------------------------------
+Action: 1	Reward: -7.681	Accumulated reward: -1892.768
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 11, 45, 58), 1, (46.9935146, 6.9373815), [3178.79, 2810.54, 3947.43, 3867.7, 2986.02, 1946.49, 4601.02, 3337.1, 2754.04, 3866.96, 2783.38, 3637.08, 2721.51, 6039.4, 67.13, 1499.17, 729.11, 2030.34])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:4', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:1', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:0', 'stn:12, num:1', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:4']
+Busy ambulances:[(11, datetime.datetime(2018, 7, 5, 11, 56, 47, 117073)), (13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (4, datetime.datetime(2018, 7, 5, 11, 46, 13, 938301)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (11, datetime.datetime(2018, 7, 5, 12, 29, 14, 532776)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247)), (5, datetime.datetime(2018, 7, 5, 11, 47, 11, 19166)), (12, datetime.datetime(2018, 7, 5, 12, 9, 27, 730463)), (4, datetime.datetime(2018, 7, 5, 12, 28, 46, 283968)), (17, datetime.datetime(2018, 7, 5, 13, 1, 51, 304082)), (1, datetime.datetime(2018, 7, 5, 12, 28, 30, 540906))]
+----------------------------------------
+Action: 8	Reward: -9.9997	Accumulated reward: -1902.7677
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 12, 1, 34), 1, (47.0568318, 6.745268368158149), [4522.37, 4154.12, 5291.01, 5211.28, 4329.6, 3290.07, 5944.59, 4680.68, 4372.48, 5210.53, 4126.96, 4980.66, 2625.62, 7737.72, 2053.14, 497.25, 1257.44, 1678.47])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:1', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:8', 'stn:17, num:4']
+Busy ambulances:[(13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (11, datetime.datetime(2018, 7, 5, 12, 29, 14, 532776)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247)), (12, datetime.datetime(2018, 7, 5, 12, 9, 27, 730463)), (4, datetime.datetime(2018, 7, 5, 12, 28, 46, 283968)), (17, datetime.datetime(2018, 7, 5, 13, 1, 51, 304082)), (1, datetime.datetime(2018, 7, 5, 12, 28, 30, 540906)), (8, datetime.datetime(2018, 7, 5, 13, 31, 43, 122252))]
+----------------------------------------
+Action: 16	Reward: -8.7632	Accumulated reward: -1911.5309
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 12, 3, 19), 2, (46.9487464, 6.8358712), [2764.37, 2396.11, 3533.0, 3453.27, 2571.59, 1532.07, 4186.59, 2922.68, 2614.48, 3452.53, 2368.95, 3222.65, 2307.09, 6443.66, 881.41, 1873.16, 1103.1, 1813.81])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:6', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:0', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:1', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:4']
+Busy ambulances:[(13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (9, datetime.datetime(2018, 7, 5, 12, 5, 28, 385093)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (11, datetime.datetime(2018, 7, 5, 12, 29, 14, 532776)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247)), (12, datetime.datetime(2018, 7, 5, 12, 9, 27, 730463)), (4, datetime.datetime(2018, 7, 5, 12, 28, 46, 283968)), (17, datetime.datetime(2018, 7, 5, 13, 1, 51, 304082)), (1, datetime.datetime(2018, 7, 5, 12, 28, 30, 540906)), (8, datetime.datetime(2018, 7, 5, 13, 31, 43, 122252)), (16, datetime.datetime(2018, 7, 5, 13, 15, 56, 77009))]
+----------------------------------------
+Action: 5	Reward: -0.6192	Accumulated reward: -1912.1501
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 12, 5, 36), 1, (46.40042745, 6.248668778300736), [1948.48, 1620.13, 515.47, 2724.08, 1529.79, 2469.33, 3457.4, 988.34, 3498.36, 2740.5, 2367.89, 3023.46, 3568.33, 5714.46, 3876.02, 4867.77, 4097.71, 4697.65])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:1', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:1', 'stn:13, num:0', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:4']
+Busy ambulances:[(13, datetime.datetime(2018, 7, 5, 12, 9, 36, 966797)), (6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (11, datetime.datetime(2018, 7, 5, 12, 29, 14, 532776)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247)), (12, datetime.datetime(2018, 7, 5, 12, 9, 27, 730463)), (4, datetime.datetime(2018, 7, 5, 12, 28, 46, 283968)), (17, datetime.datetime(2018, 7, 5, 13, 1, 51, 304082)), (1, datetime.datetime(2018, 7, 5, 12, 28, 30, 540906)), (8, datetime.datetime(2018, 7, 5, 13, 31, 43, 122252)), (16, datetime.datetime(2018, 7, 5, 13, 15, 56, 77009)), (5, datetime.datetime(2018, 7, 5, 13, 12, 45, 251041))]
+----------------------------------------
+Action: 2	Reward: 10.0	Accumulated reward: -1902.1501
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 12, 10, 57), 2, (46.9617107, 6.8577925), [2727.28, 2359.03, 3495.92, 3416.19, 2534.51, 1494.98, 4149.5, 2885.59, 2577.4, 3415.45, 2331.87, 3185.57, 2270.0, 6367.35, 682.77, 1674.53, 904.46, 1517.59])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:6', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:1', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:2', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:4']
+Busy ambulances:[(6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (9, datetime.datetime(2018, 7, 5, 12, 12, 23, 758154)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (11, datetime.datetime(2018, 7, 5, 12, 29, 14, 532776)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247)), (4, datetime.datetime(2018, 7, 5, 12, 28, 46, 283968)), (17, datetime.datetime(2018, 7, 5, 13, 1, 51, 304082)), (1, datetime.datetime(2018, 7, 5, 12, 28, 30, 540906)), (8, datetime.datetime(2018, 7, 5, 13, 31, 43, 122252)), (16, datetime.datetime(2018, 7, 5, 13, 15, 56, 77009)), (5, datetime.datetime(2018, 7, 5, 13, 12, 45, 251041)), (2, datetime.datetime(2018, 7, 5, 12, 21, 9, 949271))]
+----------------------------------------
+Action: 12	Reward: -0.9456	Accumulated reward: -1903.0957
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 12, 18, 30), 1, (46.6679903, 6.7960399), [1943.38, 2196.31, 3369.08, 2439.82, 2407.66, 1873.77, 3173.13, 2758.75, 1500.54, 749.71, 2488.36, 3530.84, 3306.54, 4257.94, 3614.23, 4605.98, 3835.92, 4435.86])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:6', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:1', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:4']
+Busy ambulances:[(6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (11, datetime.datetime(2018, 7, 5, 12, 29, 14, 532776)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247)), (4, datetime.datetime(2018, 7, 5, 12, 28, 46, 283968)), (17, datetime.datetime(2018, 7, 5, 13, 1, 51, 304082)), (1, datetime.datetime(2018, 7, 5, 12, 28, 30, 540906)), (8, datetime.datetime(2018, 7, 5, 13, 31, 43, 122252)), (16, datetime.datetime(2018, 7, 5, 13, 15, 56, 77009)), (5, datetime.datetime(2018, 7, 5, 13, 12, 45, 251041)), (2, datetime.datetime(2018, 7, 5, 12, 21, 9, 949271)), (12, datetime.datetime(2018, 7, 5, 13, 22, 40, 5304))]
+----------------------------------------
+Action: 17	Reward: -9.9034	Accumulated reward: -1912.9991
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 12, 19, 39), 9, (47.04221405, 6.901146950000001), [3591.37, 3223.12, 4360.01, 4280.28, 3398.6, 2359.07, 5013.59, 3749.68, 3355.59, 4279.53, 3195.96, 4049.66, 3134.09, 6640.95, 886.13, 958.48, 367.9, 2005.82])
+Station status:
+['stn:0, num:32', 'stn:1, num:0', 'stn:2, num:6', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:2', 'stn:10, num:3', 'stn:11, num:1', 'stn:12, num:1', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:3']
+Busy ambulances:[(6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (11, datetime.datetime(2018, 7, 5, 12, 29, 14, 532776)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247)), (4, datetime.datetime(2018, 7, 5, 12, 28, 46, 283968)), (17, datetime.datetime(2018, 7, 5, 13, 1, 51, 304082)), (1, datetime.datetime(2018, 7, 5, 12, 28, 30, 540906)), (8, datetime.datetime(2018, 7, 5, 13, 31, 43, 122252)), (16, datetime.datetime(2018, 7, 5, 13, 15, 56, 77009)), (5, datetime.datetime(2018, 7, 5, 13, 12, 45, 251041)), (2, datetime.datetime(2018, 7, 5, 12, 21, 9, 949271)), (12, datetime.datetime(2018, 7, 5, 13, 22, 40, 5304)), (17, datetime.datetime(2018, 7, 5, 14, 18, 6, 965837))]
+----------------------------------------
+Action: 10	Reward: -0.9969	Accumulated reward: -1913.9961
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 12, 28, 36), 1, (46.9863312, 6.8944708), [3125.28, 2757.03, 3893.92, 3814.19, 2932.51, 1892.98, 4547.5, 3283.59, 2954.07, 3813.45, 2729.87, 3583.57, 2668.0, 6239.43, 552.56, 1356.03, 585.97, 1681.78])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:5', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:2', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:1', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:3']
+Busy ambulances:[(6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (11, datetime.datetime(2018, 7, 5, 12, 29, 14, 532776)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247)), (4, datetime.datetime(2018, 7, 5, 12, 28, 46, 283968)), (17, datetime.datetime(2018, 7, 5, 13, 1, 51, 304082)), (8, datetime.datetime(2018, 7, 5, 13, 31, 43, 122252)), (16, datetime.datetime(2018, 7, 5, 13, 15, 56, 77009)), (5, datetime.datetime(2018, 7, 5, 13, 12, 45, 251041)), (12, datetime.datetime(2018, 7, 5, 13, 22, 40, 5304)), (17, datetime.datetime(2018, 7, 5, 14, 18, 6, 965837)), (10, datetime.datetime(2018, 7, 5, 15, 13, 26, 221395))]
+----------------------------------------
+Action: 11	Reward: -9.9267	Accumulated reward: -1923.9228
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 12, 30, 55), 1, (46.4625733, 6.8377229), [1411.34, 1668.51, 2775.09, 217.95, 1813.68, 2404.16, 1535.26, 2164.76, 3193.19, 1550.91, 2302.71, 3475.44, 3503.16, 3779.82, 3810.85, 4802.6, 4032.54, 4632.47])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:5', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:2', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:1', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:3']
+Busy ambulances:[(6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247)), (17, datetime.datetime(2018, 7, 5, 13, 1, 51, 304082)), (8, datetime.datetime(2018, 7, 5, 13, 31, 43, 122252)), (16, datetime.datetime(2018, 7, 5, 13, 15, 56, 77009)), (5, datetime.datetime(2018, 7, 5, 13, 12, 45, 251041)), (12, datetime.datetime(2018, 7, 5, 13, 22, 40, 5304)), (17, datetime.datetime(2018, 7, 5, 14, 18, 6, 965837)), (10, datetime.datetime(2018, 7, 5, 15, 13, 26, 221395)), (11, datetime.datetime(2018, 7, 5, 13, 16, 10, 567169))]
+----------------------------------------
+Action: 5	Reward: -9.9851	Accumulated reward: -1933.9078
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 12, 32, 26), 1, (46.9895828, 6.9292641), [3053.56, 2685.31, 3822.2, 3742.47, 2860.79, 1821.27, 4475.79, 3211.87, 2879.79, 3741.73, 2658.15, 3511.85, 2596.29, 6165.15, 192.88, 1419.97, 649.91, 1957.33])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:4', 'stn:6, num:2', 'stn:7, num:0', 'stn:8, num:0', 'stn:9, num:2', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:1', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:3']
+Busy ambulances:[(6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (7, datetime.datetime(2018, 7, 5, 12, 42, 1, 536281)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247)), (17, datetime.datetime(2018, 7, 5, 13, 1, 51, 304082)), (8, datetime.datetime(2018, 7, 5, 13, 31, 43, 122252)), (16, datetime.datetime(2018, 7, 5, 13, 15, 56, 77009)), (5, datetime.datetime(2018, 7, 5, 13, 12, 45, 251041)), (12, datetime.datetime(2018, 7, 5, 13, 22, 40, 5304)), (17, datetime.datetime(2018, 7, 5, 14, 18, 6, 965837)), (10, datetime.datetime(2018, 7, 5, 15, 13, 26, 221395)), (11, datetime.datetime(2018, 7, 5, 13, 16, 10, 567169)), (5, datetime.datetime(2018, 7, 5, 14, 0, 35, 755843))]
+----------------------------------------
+Action: 0	Reward: -9.995	Accumulated reward: -1943.9028
+----------------------------------------
+OBS:(datetime.datetime(2018, 7, 5, 12, 43, 24), 2, (46.5122966, 6.647625900000001), [424.72, 1129.18, 2124.15, 1537.2, 1162.74, 1978.38, 2270.52, 1513.82, 3007.41, 1512.39, 1876.94, 3049.66, 3077.38, 4527.59, 3385.07, 4376.82, 3606.76, 4206.69])
+Station status:
+['stn:0, num:32', 'stn:1, num:1', 'stn:2, num:7', 'stn:3, num:2', 'stn:4, num:6', 'stn:5, num:4', 'stn:6, num:2', 'stn:7, num:1', 'stn:8, num:0', 'stn:9, num:2', 'stn:10, num:2', 'stn:11, num:1', 'stn:12, num:1', 'stn:13, num:1', 'stn:14, num:10', 'stn:15, num:4', 'stn:16, num:7', 'stn:17, num:3']
+Busy ambulances:[(6, datetime.datetime(2018, 7, 5, 14, 1, 55, 804884)), (2, datetime.datetime(2018, 7, 5, 12, 47, 28, 285049)), (9, datetime.datetime(2018, 7, 5, 13, 0, 42, 55247)), (17, datetime.datetime(2018, 7, 5, 13, 1, 51, 304082)), (8, datetime.datetime(2018, 7, 5, 13, 31, 43, 122252)), (16, datetime.datetime(2018, 7, 5, 13, 15, 56, 77009)), (5, datetime.datetime(2018, 7, 5, 13, 12, 45, 251041)), (12, datetime.datetime(2018, 7, 5, 13, 22, 40, 5304)), (17, datetime.datetime(2018, 7, 5, 14, 18, 6, 965837)), (10, datetime.datetime(2018, 7, 5, 15, 13, 26, 221395)), (11, datetime.datetime(2018, 7, 5, 13, 16, 10, 567169)), (5, datetime.datetime(2018, 7, 5, 14, 0, 35, 755843))]
+----------------------------------------
+Action: 11	Reward: -0.9946	Accumulated reward: -1944.8974
